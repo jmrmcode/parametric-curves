@@ -20,6 +20,13 @@ x = x(t) and y = y(t) are the paramteric equations of the curve.
 The Julia code to implement the cycloid curve defined by the following parametric equations is provided in Cycloid_curve.jl.
 
 x = a * (t - sin(t))
+
 y = b * (1- cos(t))
 
-## 
+## Curve of Agnesi
+
+The Julia code to implement the curve of Agnesi defined by the following parametric equations is provided in Agnesi_curve.jl.
+
+x = 2 * a * tan(&theta;)
+
+y = 2 * a * cos<sup>2</sup>(&theta;)
