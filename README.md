@@ -1,7 +1,7 @@
 # parametric-curves
 Julia code to implement parametric curves
 
-Repository to gather Julia code that implements parametric curves.
+Repository to gather Julia code that implements parametric curves. Parametric curves are very useful to depict the relationship between two variables which in turn depend on the same covariate but differently. The curves shown below can be used to represent seasonal cycles.
 
 ## General definition of a parametric curve
 
